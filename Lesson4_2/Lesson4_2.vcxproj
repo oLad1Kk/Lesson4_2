@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Book.cpp" />
     <ClCompile Include="Item.cpp" />
     <ClCompile Include="Lesson4_2.cpp" />
     <ClCompile Include="MovieDVD.cpp" />
@@ -136,6 +137,7 @@
     <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Book.h" />
     <ClInclude Include="Item.h" />
     <ClInclude Include="MovieDVD.h" />
     <ClInclude Include="MusicCD.h" />
