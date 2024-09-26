@@ -20,5 +20,6 @@ public:
     string getActors()const;
     
     void showInfo() const;
+    float getPrice() const;
 };
 
